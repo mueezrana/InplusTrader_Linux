@@ -1,0 +1,19 @@
+[
+    {
+        "name": "atr rsi",
+        "className": "AtrRsiStrategy",
+        "vtSymbols": ["IC1706"]
+    },
+    {
+    	"name": "ema",
+        "className": "EmaDemoStrategy",
+        "author": "Vinson Zheng",
+        "vtSymbols": [ "cu1705" ]
+    },
+    {
+    	"name": "pair trading",
+        "className": "PairTradingStrategy",
+        "author": "Vinson Zheng",
+        "vtSymbols": [ "rb1705" , "bu1705"]
+    }
+]
